@@ -1,6 +1,7 @@
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
+import Button from "./Button";
 
 const Navbar = () => {
   return (
@@ -55,6 +56,7 @@ const Contact = () => {
     <>
       <Navbar />
       <p> This is Contact Page </p>
+      <Button />
     </>
   );
 };
