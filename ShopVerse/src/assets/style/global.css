@@ -17,6 +17,13 @@
   }
 }
 
+@theme {
+    --color-primary-1: #111827;
+    /* --color-primary-2: #f8f9fa;
+    --color-search-icon: #75899e;
+    --color-search-modal: #e1e1e1; */
+}
+
 /* Changing browser default styles */
 * {
   box-sizing: border-box;
