@@ -1,4 +1,4 @@
-import TopSection from "./TopSection";
+import TopSection from "./TopSection/index";
 
 export default function Header() {
   return (
